@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Convert = () => {
+const Translate = () => {
     return(
         <div>
-            Convert
+            Translate
         </div>
     )
 };
 
-export default Convert;
+export default Translate;
